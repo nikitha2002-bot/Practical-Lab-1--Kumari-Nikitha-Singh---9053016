@@ -44,9 +44,10 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 jupyter notebook Pricingdataset.ipynb
 
 ```
-```bash
+
  ## Converted the notebook to HTML using:
+```bash
 
  python -m jupyter nbconvert --to html Pricingdataset.ipynb
- 
+
  ```
